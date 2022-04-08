@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...ReactJS
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...
-<a href="https://www.facebook.com/lthuong02">Facebook</a> 
+<a  href="https://www.facebook.com/lthuong02">Facebook</a> 
 <a href="https://www.linkedin.com/in/lthuong200200">LinkIn</a>
 - 😄 Pronouns: ...😍😍😍
 - ⚡ Fun fact: ...😊😊😊
