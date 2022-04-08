@@ -1,8 +1,5 @@
 
-![CodeSleepEat](https://user-images.githubusercontent.com/86012214/160667152-29473ab1-5d0d-4967-bc1d-0b51e01117a4.jpg)
-
-### Hello Everyone👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=67B8F7&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hello+%2C+I'm+Thuong+;Welcome+to+my+profile+And+have+a+nice+day+!)](https://git.io/typing-svg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...JavaScript (ReactJS)
 - 👯 I’m looking to collaborate on ...ReactJS
