@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning ...JavaScript (ReactJS)
 - 👯 I’m looking to collaborate on ...ReactJS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...Facebook ( https://www.facebook.com/profile.php?id=100006259185310 )
+- 📫 How to reach me: ...
+      Facebook <a href="https://www.facebook.com/lthuong02">Facebook</a>
+      LinkIn:
 - 😄 Pronouns: ...😍😍😍
 - ⚡ Fun fact: ...😊😊😊
