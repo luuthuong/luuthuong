@@ -17,7 +17,7 @@
 
 ### Check out my social medias:
 
-- 💬 [Personal blog](https:luuthuong.web.app)
+- 💬 [Personal blog](https://luuthuong.web.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lthuong200200/)
 - 🐦 [Twitter](https://twitter.com/LThuong2000)
 
