@@ -21,5 +21,5 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lthuong200200/)
 - 🐦 [Twitter](https://twitter.com/LThuong2000)
 
-### just a funny gif...😛
+### Just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
