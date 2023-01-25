@@ -1,10 +1,25 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4D18F7&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hello+%2C+I'm+Thuong+;Welcome+to+my+profile+And+have+a+nice+day+!)](https://git.io/typing-svg)
-- 🔭 I’m currently working on ...FullStack Web Developer
-- 🌱 My Skill ...Angular, ReactJS, C#.NET Core 
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
-<a  href="https://www.facebook.com/lthuong02">Facebook</a> 
-<a href="https://www.linkedin.com/in/lthuong200200">LinkIn</a>
-- 😄 Pronouns: ...😍😍😍
-- ⚡ Fun fact: ...😊😊😊
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=C50F0F&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hello+%2C+I'm+Thuong+;Welcome+to+my+profile+And+have+a+nice+day+!)](https://git.io/typing-svg)
+<pre>
+----------------------------------------
+<span>Luu Thuong, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
+
+- I am currently working as a Fullstack Developer.
+- 🌱 My skills: Angular, .NET Core, Docker, etc. 
+### 💬 Ask me about ... Anything
+
+### Check out my social medias:
+
+- 💬 [Personal blog](https:luuthuong.web.app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lthuong200200/)
+- 🐦 [Twitter](https://twitter.com/LThuong2000)
+
+### just a funny gif...😛
+![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
