@@ -11,8 +11,7 @@
               ||     ||
 </pre>
 
-- I am currently working as a Fullstack Developer.
-- 🌱 My skills: Angular, ReactJS .NET Core, etc. 
+- 🌱 My skills: Angular, ReactJS .NET Core. 
 ### 💬 Ask me about ... Anything
 
 ### Check out my social medias:
