@@ -96,12 +96,7 @@ good practices and development standards. Strong creative and analytical skills.
 
 ## Recent GitHub Activity ✅
 <img src="./github-metrics.svg"/>
-### Check out my social medias:
 
--   💬 [Portfolio](https://luuthuong.web.app)
--   🔗 [LinkedIn](https://www.linkedin.com/in/lthuong200200/)
--   🐦 [Twitter](https://twitter.com/LThuong2000)
 
-### Just a funny gif...😛
-
-![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
