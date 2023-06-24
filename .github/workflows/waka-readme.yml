@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
