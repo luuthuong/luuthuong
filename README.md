@@ -93,8 +93,9 @@ good practices and development standards. Strong creative and analytical skills.
  <tr>
  </tr>
 </table>
-### 💬 Ask me about ... Anything
 
+## Recent GitHub Activity ✅
+<img src="./github-metrics.svg"/>
 ### Check out my social medias:
 
 -   💬 [Portfolio](https://luuthuong.web.app)
