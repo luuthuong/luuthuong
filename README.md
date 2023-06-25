@@ -95,6 +95,12 @@ good practices and development standards. Strong creative and analytical skills.
 </table>
 
 ## Recent GitHub Activity ✅
+
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <img src="./github-metrics.svg"/>
 
 
