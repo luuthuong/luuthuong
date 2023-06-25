@@ -14,7 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: luuthuong/luuthuong
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
