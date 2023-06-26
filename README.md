@@ -107,12 +107,17 @@ good practices and development standards. Strong creative and analytical skills.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 24 June 2023
+From: 23 June 2023 - To: 25 June 2023
 
-Total Time: 34 mins
+Total Time: 1 hr 14 mins
 
-YAML       26 mins         >>>>>>>>>>>>>>>>>>>------   74.73 %
-Markdown   8 mins          >>>>>>-------------------   25.27 %
+XML          32 mins         >>>>>>>>>>>--------------   43.98 %
+YAML         26 mins         >>>>>>>>>----------------   34.86 %
+Markdown     8 mins          >>>----------------------   11.79 %
+HTML         6 mins          >>-----------------------   09.19 %
+JSON         0 secs          -------------------------   00.12 %
+TypeScript   0 secs          -------------------------   00.05 %
+CSS          0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
