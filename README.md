@@ -98,7 +98,7 @@ good practices and development standards. Strong creative and analytical skills.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 16 September 2023
+From: 23 June 2023 - To: 17 September 2023
 
 Total Time: 352 hrs 3 mins
 
