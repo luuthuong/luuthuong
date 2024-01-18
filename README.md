@@ -98,7 +98,7 @@ development standards and strong creative and analytical skills.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 15 January 2024
+From: 23 June 2023 - To: 16 January 2024
 
 Total Time: 713 hrs 32 mins
 
