@@ -95,6 +95,9 @@ development standards and strong creative and analytical skills.
 </table>
 
 ## Recent GitHub Activity ✅
+
+<a href="https://app.daily.dev/luuthuong"><img src="https://api.daily.dev/devcards/v2/JiLHsbttJ0RukuDrIWHkP.png?r=f5j&type=wide" width="652" alt="Nguyễn Lưu Thường's Dev Card"/></a>
+
 <!--START_SECTION:waka-->
 
 ```txt
