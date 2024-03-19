@@ -22,10 +22,10 @@
 </div>
 <p></p>
 <p align="justify">
-I have two years of experience developing systems, libraries UI, interfaces, and technological solutions to
-make the web a better place. I'm dedicated to writing and refactoring clean, reusable, and scalable code in
-Angular, .NET Core and sometimes React to make products more performance applying good practices and
-development standards and strong creative and analytical skills.
+I specialize in crafting systems, libraries, UI interfaces, and technological solutions to enhance the online
+environment. My focus is on creating and refining clean, reusable, and scalable code using Angular, .NET
+Core, and occasionally React. By implementing best practices and development standards, along with my
+strong creative and analytical abilities, I strive to improve product performance.
 </p>
 
 > Tools and technologies that I have worked with and am interested in ⚙️
