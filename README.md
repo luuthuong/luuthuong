@@ -94,10 +94,10 @@ strong creative and analytical abilities, I strive to improve product performanc
  </tr>
 </table>
 
-## Recent GitHub Activity ✅
+## ⚡ Favorite languages and tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuthuong&hide=css,scss,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="luuthuong" />
 
-<a href="https://app.daily.dev/luuthuong"><img src="https://api.daily.dev/devcards/v2/JiLHsbttJ0RukuDrIWHkP.png?r=f5j&type=wide" width="652" alt="Nguyễn Lưu Thường's Dev Card"/></a>
-
+## ⚡ Recent GitHub Activity ✅
 <!--START_SECTION:waka-->
 
 ```txt
