@@ -97,7 +97,7 @@ strong creative and analytical abilities, I strive to improve product performanc
 ## ⚡ Favorite languages and tools
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuthuong&hide=css,scss,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="luuthuong" />
 
-## ⚡ Recent GitHub Activity ✅
+## ✅ Recent GitHub Activity 
 <!--START_SECTION:waka-->
 
 ```txt
