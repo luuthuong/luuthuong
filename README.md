@@ -1,27 +1,20 @@
-<div align="justify">
+<div align="center">
 
-<a href="https://www.instagram.com/lthuong200200/">
+<a href="https://www.instagram.com/thuongngyn02/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lthuong200200/">
+<a href="https://www.linkedin.com/in/luuthuong/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/lthuong02">
 <img src="https://img.shields.io/badge/facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/luuthuong">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-
 </div>
 
 ## ⚡ Favorite languages and tools
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuthuong&hide=css,scss,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="luuthuong" />
-
-
 
 > Tools and technologies that I have worked with and am interested in ⚙️
 
