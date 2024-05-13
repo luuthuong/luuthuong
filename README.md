@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=C50F0F&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hello+%2C+I'm+Thuong+;Welcome+to+my+profile+And+have+a+nice+day+!)](https://git.io/typing-svg)
-
-
 <div align="justify">
 
 <a href="https://www.instagram.com/lthuong200200/">
@@ -20,15 +17,14 @@
 </a>
 
 </div>
-<p></p>
-<p align="justify">
-I specialize in crafting systems, libraries, UI interfaces, and technological solutions to enhance the online
-environment. My focus is on creating and refining clean, reusable, and scalable code using Angular, .NET
-Core, and occasionally React. By implementing best practices and development standards, along with my
-strong creative and analytical abilities, I strive to improve product performance.
-</p>
+
+## ⚡ Favorite languages and tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuthuong&hide=css,scss,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="luuthuong" />
+
+
 
 > Tools and technologies that I have worked with and am interested in ⚙️
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -94,12 +90,8 @@ strong creative and analytical abilities, I strive to improve product performanc
  </tr>
 </table>
 
-## ⚡ Favorite languages and tools
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuthuong&hide=css,scss,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="luuthuong" />
-
 ## ✅ Recent GitHub Activity 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 23 June 2023 - To: 11 May 2024
 
